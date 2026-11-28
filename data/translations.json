@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795858104,
+ "updated": 1795858416,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1240,6 +1240,12 @@
    "src": "pending",
    "t": 1794658995,
    "rt": 1795858104
+  },
+  "pa82635468b": {
+   "title_zh": "Atari Homebrew大奖赛取消",
+   "intro_zh": "HN 202 分 · 191 条讨论",
+   "src": "mymemory",
+   "t": 1795831405
   }
  }
 }
