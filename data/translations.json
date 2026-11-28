@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795892650,
+ "updated": 1795893531,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1500,6 +1500,12 @@
    "intro_zh": "Android Authority 在 One UI 9.5 测试版中发现了代码，其中提到了一项名为 Recompose 的功能，该功能可能会让您在拍摄照片后更改照片的角度。该代码是三星照片编辑器应用程序的一部分，并基于现有的移动工具构建。用户将...",
    "src": "gtx",
    "t": 1795892098
+  },
+  "n6df9fa92e3": {
+   "title_zh": "由于人工智能生成的报告大量涌入，Donald Knuth 暂停了错误赏金",
+   "intro_zh": "",
+   "src": "gtx",
+   "t": 1795888382
   }
  }
 }
