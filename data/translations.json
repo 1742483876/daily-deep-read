@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795889499,
+ "updated": 1795889940,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1482,6 +1482,18 @@
    "intro_zh": "",
    "src": "gtx",
    "t": 1795786220
+  },
+  "nbd2a9c4df9": {
+   "title_zh": "现在购买 Nimble 的可拆分 10,000mAh 移动电源可节省 20 美元",
+   "intro_zh": "由于黑色星期五促销活动持续不断，Nimble 的 10,000mAh SharePower 便携式充电器可从 Nimble 和亚马逊（Prime 会员）购买，价格为 59.96 美元（折扣 20 美元），这是我们见过的这款智能充电设备的最低价格。折扣延伸至……",
+   "src": "gtx",
+   "t": 1795889700
+  },
+  "pa21da8fb3e": {
+   "title_zh": "默默地降低模型的能力是破坏行为",
+   "intro_zh": "HN 202 分 · 65 条讨论",
+   "src": "gtx",
+   "t": 1795881354
   }
  }
 }
