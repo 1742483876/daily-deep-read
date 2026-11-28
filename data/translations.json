@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795869284,
+ "updated": 1795870619,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1312,6 +1312,11 @@
    "intro_zh": "你认为我们什么时候能在月球上拥有机器人？",
    "src": "gtx",
    "t": 1794231094
+  },
+  "n0db51e6bdd": {
+   "src": "pending",
+   "t": 1795866146,
+   "rt": 1795870619
   }
  }
 }
