@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795879225,
+ "updated": 1795880148,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1422,6 +1422,12 @@
    "intro_zh": "我们通常不会推荐一台糟糕的相机，但我们会为柯达 Charmera 破例。正如我的同事 Andrew Liszewski 在他的评论中指出的那样，这款小型复古钥匙扣相机拍出的照片相当平淡，但它足够迷人，让我们……",
    "src": "gtx",
    "t": 1795878831
+  },
+  "pe400b7891e": {
+   "title_zh": "Audible 删除了已购买有声读物的下载选项",
+   "intro_zh": "HN 214 分 · 83 条讨论",
+   "src": "gtx",
+   "t": 1795866687
   }
  }
 }
