@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795893531,
+ "updated": 1795894017,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1504,6 +1504,18 @@
   "n6df9fa92e3": {
    "title_zh": "由于人工智能生成的报告大量涌入，Donald Knuth 暂停了错误赏金",
    "intro_zh": "",
+   "src": "gtx",
+   "t": 1795888382
+  },
+  "nd0d897e39c": {
+   "title_zh": "Birdbuddy 最新的智能喂食器仍保持黑色星期五低价",
+   "intro_zh": "如果您想知道哪些有翅膀的访客经常光顾您的后院，请不要再想了，因为 Birdbuddy 的整个智能喂食器系列都在黑色星期五打折，包括最近发布的 Nook 和 Home 型号。您有几种选择可以选择...",
+   "src": "gtx",
+   "t": 1795893300
+  },
+  "p6df9fa92e3": {
+   "title_zh": "由于人工智能生成的报告大量涌入，Donald Knuth 暂停了错误赏金",
+   "intro_zh": "HN 202 分 · 30 条讨论",
    "src": "gtx",
    "t": 1795888382
   }
