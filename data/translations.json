@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795898915,
+ "updated": 1795899392,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1542,6 +1542,12 @@
    "intro_zh": "Anthropic 一直在努力解决有关该公司聊天机器人 Claude 破坏某些类型工作的指控。",
    "src": "gtx",
    "t": 1795898700
+  },
+  "p8674f5254d": {
+   "title_zh": "暗黑破坏神2",
+   "intro_zh": "HN 201 分 · 79 条讨论",
+   "src": "gtx",
+   "t": 1795859659
   }
  }
 }
