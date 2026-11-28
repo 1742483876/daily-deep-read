@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795888595,
+ "updated": 1795889499,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1476,6 +1476,12 @@
    "intro_zh": "HN 200 分 · 63 条讨论",
    "src": "gtx",
    "t": 1795820430
+  },
+  "n2b16dca40f": {
+   "title_zh": "保罗·索莱里 (Paolo Soleri) 在亚利桑那州沙漠中建造了一座乌托邦生态城",
+   "intro_zh": "",
+   "src": "gtx",
+   "t": 1795786220
   }
  }
 }
