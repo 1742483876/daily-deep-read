@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795877444,
+ "updated": 1795878349,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1404,6 +1404,12 @@
    "intro_zh": "HN 205 分 · 68 条讨论",
    "src": "gtx",
    "t": 1795862260
+  },
+  "ne400b7891e": {
+   "title_zh": "Audible 删除了已购买有声读物的下载选项",
+   "intro_zh": "",
+   "src": "gtx",
+   "t": 1795866687
   }
  }
 }
