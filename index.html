@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>每日深读</title>
+<meta name="description" content="每天一个专题：结合热点的深度思考，可读、可听、可刷。">
+<meta name="theme-color" content="#f5f7fb" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111318" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="每日深读">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app"><div class="loading">正在翻开今天这一页…</div></div>
+<div id="player" class="player hidden">
+  <div class="pl-bar"><div class="pl-fill"></div><input class="pl-seek" type="range" min="0" max="1000" value="0" aria-label="进度"></div>
+  <div class="pl-row">
+    <div class="pl-info"><div class="pl-title"></div><div class="pl-time">0:00 / 0:00</div></div>
+    <button class="pl-btn" data-act="back" aria-label="后退15秒">↺15</button>
+    <button class="pl-btn pl-main" data-act="toggle" aria-label="播放">▶</button>
+    <button class="pl-btn" data-act="fwd" aria-label="前进30秒">30↻</button>
+    <button class="pl-btn pl-sm" data-act="rate">1.0×</button>
+    <button class="pl-btn pl-sm" data-act="timer">⏾</button>
+  </div>
+</div>
+<nav class="tabs">
+  <a href="#/" data-tab="disc"><span>🃏</span>刷一刷</a>
+  <a href="#/hot" data-tab="hot"><span>🔥</span>热榜</a>
+  <a href="#/news" data-tab="news"><span>⚡</span>要闻</a>
+  <a href="#/shelf" data-tab="shelf"><span>💗</span>清单</a>
+</nav>
+<div id="toast" class="toast"></div>
+<audio id="audio" preload="metadata"></audio>
+<script src="app.js"></script>
+</body>
+</html>
