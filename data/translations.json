@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795866586,
+ "updated": 1795867913,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1293,6 +1293,12 @@
    "intro_zh": "",
    "src": "gtx",
    "t": 1795820430
+  },
+  "n060cdfc00d": {
+   "title_zh": "Show HN：DragDropMath – 通过感觉学习数学",
+   "intro_zh": "",
+   "src": "gtx",
+   "t": 1795802188
   }
  }
 }
