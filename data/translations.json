@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795859752,
+ "updated": 1795866538,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1275,6 +1275,12 @@
    "intro_zh": "HN 201 分 · 60 条讨论",
    "src": "gtx",
    "t": 1795749019
+  },
+  "nd4903f56e0": {
+   "title_zh": "泰山阿尔",
+   "intro_zh": "热搜第 20 · 热度 30 万",
+   "src": "gtx",
+   "t": 1795866535
   }
  }
 }
