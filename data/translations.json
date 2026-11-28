@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795874726,
+ "updated": 1795875170,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1354,6 +1354,16 @@
    "intro_zh": "黑色星期五已经过去，但这并不意味着您错过了。远非如此。 Almost all of the same deals from yesterday are still available, but some retailers plan to end theirs once the clock turns to early Sunday morning.确实，您已经看到了过期的优惠……",
    "src": "gtx",
    "t": 1795874223
+  },
+  "nfab79dac16": {
+   "src": "skip",
+   "t": 1795874803
+  },
+  "nb37a4fb681": {
+   "title_zh": "人工智能购物代理正在风靡一时，但亚马逊和越来越多的网站……",
+   "intro_zh": "OpenAI、Meta、Google 和 Instinct 的人工智能购物代理承诺帮助用户购物，但他们在亚马逊和其他零售商处遇到了障碍。",
+   "src": "gtx",
+   "t": 1795797794
   }
  }
 }
