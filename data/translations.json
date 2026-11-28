@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795874653,
+ "updated": 1795874726,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1306,12 +1306,6 @@
    "intro_zh": "另外：黄瓜视觉！",
    "src": "gtx",
    "t": 1794837675
-  },
-  "p65b0a1baf0": {
-   "title_zh": "进口 AI 480：自我维持的太空经济；人工智能促进科学进步，Meta 为超级智能打造完美之手",
-   "intro_zh": "你认为我们什么时候能在月球上拥有机器人？",
-   "src": "gtx",
-   "t": 1794231094
   },
   "n0db51e6bdd": {
    "title_zh": "告别",
