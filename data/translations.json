@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795871936,
+ "updated": 1795871994,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1327,6 +1327,11 @@
    "src": "pending",
    "t": 1795870802,
    "rt": 1795871936
+  },
+  "p0db51e6bdd": {
+   "src": "pending",
+   "t": 1795866146,
+   "rt": 1795871994
   }
  }
 }
