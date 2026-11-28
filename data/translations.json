@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795876954,
+ "updated": 1795877444,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1398,6 +1398,12 @@
    "intro_zh": "在教育部削减他的 PSLF 计数后，尼古拉斯·云德 (Nicholas Yund) 努力恢复计数，记录了他的付款并向立法者寻求帮助。",
    "src": "gtx",
    "t": 1795876497
+  },
+  "pd09e811873": {
+   "title_zh": "克劳德代码破坏：初步基准测试",
+   "intro_zh": "HN 205 分 · 68 条讨论",
+   "src": "gtx",
+   "t": 1795862260
   }
  }
 }
