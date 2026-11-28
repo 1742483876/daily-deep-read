@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795888123,
+ "updated": 1795888558,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1452,6 +1452,18 @@
    "intro_zh": "今年夏天苹果起诉 OpenAI 后，OpenAI 也发起反诉予以回击。",
    "src": "gtx",
    "t": 1795888007
+  },
+  "na21da8fb3e": {
+   "title_zh": "默默地降低模型的能力是破坏行为",
+   "intro_zh": "",
+   "src": "gtx",
+   "t": 1795881354
+  },
+  "n8674f5254d": {
+   "title_zh": "暗黑破坏神2",
+   "intro_zh": "",
+   "src": "gtx",
+   "t": 1795859659
   }
  }
 }
