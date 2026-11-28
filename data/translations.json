@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": 1795874214,
+ "updated": 1795874653,
  "note": "英文新闻中文译文。key = news.json 的 id（URL 的 md5，稳定）；src=manual 为人工精翻，自动翻译不会覆盖。",
  "items": {
   "n4a5f51e6e4": {
@@ -1314,9 +1314,10 @@
    "t": 1794231094
   },
   "n0db51e6bdd": {
-   "src": "pending",
-   "t": 1795866146,
-   "rt": 1795873340
+   "title_zh": "告别",
+   "intro_zh": "",
+   "src": "gtx",
+   "t": 1795866146
   },
   "n74c56082ad": {
    "title_zh": "以下是如何让新的黑色星期五电视看起来最好的",
@@ -1325,19 +1326,40 @@
    "t": 1795870800
   },
   "nbe8b830416": {
-   "src": "pending",
-   "t": 1795870802,
-   "rt": 1795873340
+   "title_zh": "医生、病人和智能手表：医生对第三种观点的看法……",
+   "intro_zh": "许多美国人使用智能手表或健身追踪器来收集健康数据，医生表示这些设备越来越多地成为年度检查的一部分。",
+   "src": "gtx",
+   "t": 1795870802
   },
   "p0db51e6bdd": {
-   "src": "pending",
-   "t": 1795866146,
-   "rt": 1795873340
+   "title_zh": "告别",
+   "intro_zh": "HN 291 分 · 103 条讨论",
+   "src": "gtx",
+   "t": 1795866146
   },
   "p1946c80e46": {
-   "src": "pending",
-   "t": 1795837761,
-   "rt": 1795873340
+   "title_zh": "Knuth：暂停错误报告",
+   "intro_zh": "HN 218 分 · 109 条讨论",
+   "src": "gtx",
+   "t": 1795837761
+  },
+  "n021c12a34f": {
+   "title_zh": "Alexa 相框是 Echo Show，没有你讨厌的部分",
+   "intro_zh": "我必须面对事实：我是一个数字囤积者。我儿子今年高中毕业，为了纪念这一时刻，我为他制作了一本关于他 12 年求学经历的剪贴簿。他很喜欢它，但一个反应让我感到惊讶：他说他从未见过这些照片中的大部分。不像我的…",
+   "src": "gtx",
+   "t": 1795874400
+  },
+  "nd3778604bc": {
+   "title_zh": "Sakana AI 首席执行官表示，其本土模型不仅仅是日本国家的……",
+   "intro_zh": "Sakana AI 旨在通过本土人工智能模型增强日本的产业竞争力。",
+   "src": "gtx",
+   "t": 1795874400
+  },
+  "nb1830e621f": {
+   "title_zh": "几乎所有黑色星期五的大优惠仍在本周末进行",
+   "intro_zh": "黑色星期五已经过去，但这并不意味着您错过了。远非如此。 Almost all of the same deals from yesterday are still available, but some retailers plan to end theirs once the clock turns to early Sunday morning.确实，您已经看到了过期的优惠……",
+   "src": "gtx",
+   "t": 1795874223
   }
  }
 }
